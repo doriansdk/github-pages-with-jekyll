@@ -1,3 +1,5 @@
+<body>
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+  
+  <p>Watch how I live my life, as it ends 1 minute at a time.</p>
+</body>
